@@ -67,7 +67,8 @@ Versão final, que preserva a estrutura original (resumo executivo + 4 seções)
  
 ## Ordem de leitura sugerida
  
-1. `prompt_refinado_novatech.md` — entender o que foi pedido.
-2. `parecer_viabilidade_assistente_ia_novatech.md` — a primeira resposta.
-3. `revisao_critica_parecer_novatech.md` — a autocrítica (12 pontos).
-4. `parecer_viabilidade_assistente_ia_novatech_v2.md` — a versão final, com a tabela de rastreabilidade ao fim.
+1. `exercicio1-1-prompt.md` — o prompt inicial do desafio.
+2. `prompt_refinado_novatech.md` — entender o que foi pedido.
+3. `parecer_viabilidade_assistente_ia_novatech.md` — a primeira resposta.
+4. `revisao_critica_parecer_novatech.md` — a autocrítica (12 pontos).
+5. `parecer_viabilidade_assistente_ia_novatech_v2.md` — a versão final, com a tabela de rastreabilidade ao fim.
