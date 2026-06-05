@@ -1,0 +1,19 @@
+# Banco vetorial gerado pela ingestão (regenerável com `py ingest.py`)
+chroma_db/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Ambiente / IDE
+.env
+.vscode/
+.idea/
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
